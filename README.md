@@ -9,4 +9,4 @@ The code will be provided as needed.
 
 # Acknowledgement
 Thanks to the following people for their work.
-* Jaume, G., et al., Modeling dense multimodal interactions between biological pathways and histology for survival prediction.
+* Jaume G, Vaidya A, Chen R J, et al. Modeling dense multimodal interactions between biological pathways and histology for survival prediction[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024: 11579-11590.
